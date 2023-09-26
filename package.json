@@ -1,0 +1,12 @@
+{
+  "name": "vtrat",
+  "version": "1.0.0",
+  "description": "一个 React Vite Typescript Antd Tailwind 的 Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MicahFang<Micah.fang@outlook.com>",
+  "license": "Apache-2.0"
+}
